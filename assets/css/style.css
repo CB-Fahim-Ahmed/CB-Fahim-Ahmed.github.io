@@ -474,8 +474,10 @@ section {
   overflow: hidden;
   z-index: 1;
   /* background: rgba(69, 80, 91, 0.8); */
-  background: #4c874d;
-  background: #72b626;
+  background: #ffffff;
+  background: #ffffff;
+  border: 3px solid #2dc2bd;
+  border-radius: 10px;
 }
 
 .portfolio .portfolio-wrap::before {
